@@ -3,8 +3,8 @@
 </p>
 <p align="center">
 	<a href="https://github.com/ripperhe/Bob/releases/latest"><img src="https://img.shields.io/github/v/release/ripperhe/Bob?logo=github" alt="GitHub release" /></a>
-	<a href="https://jq.qq.com/?_wv=1027&k=UYj7vAPG"><img src="https://img.shields.io/badge/QQ%20Group-971584165-red" alt="QQ群" /></a>
 	<a href="https://ripperhe.gitee.io/bob/"><img src="https://img.shields.io/badge/docsify-Document-brightgreen" alt="Document" /></a>
+	<a href="https://ripperhe.gitee.io/bob/#/general/contact"><img src="https://img.shields.io/badge/QQ%20Group-459542798-red" alt="QQ群" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/ripperhe/Bob">Chinese</a> | <strong>English</strong>
@@ -34,7 +34,7 @@ brew install --cask bob
 | Channel | Suggest | Download |
 | --- | --- | --- |
 | [GitHub release](https://github.com/ripperhe/Bob/releases) | Use this in foreign countries | [Download⬇](https://github.com/ripperhe/Bob/releases/latest/download/Bob.zip) |
-| [Gitee release](https://gitee.com/ripperhe/Bob/releases) | Use this in China | [Download ⬇](https://gitee.com/ripperhe/Bob/attach_files/635221/download/Bob.zip) |
+| [Gitee release](https://gitee.com/ripperhe/Bob/releases) | Use this in China | [Download ⬇](https://gitee.com/ripperhe/Bob/attach_files/893969/download/Bob.zip) |
 
 After the download is complete, unzip and drag app to your Applications folder.
 
@@ -70,6 +70,6 @@ The inspiration and part of the code for this repository comes from the followin
 
 **The last open source version is `0.2.0`. If you want to view it, you can clone the repository and view it in the `archive_0.2.0` folder**
 
-Bob is still very young, and there may be various problems, big and small. If you have any questions or suggestions, you can directly raise issues, or join the QQ group **971584165** ~
+Bob is still very young, and there may be various problems, big and small. If you have any questions or suggestions, you can directly raise issues, or [join the QQ group](https://ripperhe.gitee.io/bob/#/general/contact) ~
 
-[Praise list](https://github.com/ripperhe/Bob/blob/master/RewardList.md)
+[Praise list](https://ripperhe.gitee.io/bob/#/general/reward)

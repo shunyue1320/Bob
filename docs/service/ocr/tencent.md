@@ -66,6 +66,8 @@
 
 如果想要更安全一些，可以创建一个「子用户」，然后只给这个「子用户」开启访问「文字识别」API的权限
 
+!> 如果之前为腾讯的其他服务创建过「子用户」，**也请创建一个新的「子用户」**，每个服务对应的权限可能不同，只有权限对应上了才能正常使用。
+
 进入 [「访问管理-用户-用户列表」](https://console.cloud.tencent.com/cam)，点击「新建用户」
 
 <img src="https://gitee.com/ripperhe/oss/raw/master/2020/0502/tencent_ocr_user_1.png" alt="tencent_ocr_user_1" width=1000 />
@@ -82,7 +84,7 @@
 
 <img src="https://gitee.com/ripperhe/oss/raw/master/2020/0502/tencent_ocr_user_4.png" alt="tencent_ocr_user_4" width=1000 />
 
-在搜索框输入「ocr」即可快速找到「文字识别」相关服务，然后勾选上「QcloudOCRFullAccess」，点击「下一步」
+在搜索框输入「ocr」即可快速找到「文字识别」相关服务，然后勾选上「**QcloudOCRFullAccess**」，点击「下一步」
 
 <img src="https://gitee.com/ripperhe/oss/raw/master/2020/0502/tencent_ocr_user_5.png" alt="tencent_ocr_user_5" width=1000 />
 
@@ -107,3 +109,9 @@
 在 Bob 的 偏好设置 > 服务 中，选中「文本识别」，点击 `+` 号，选中「腾讯云通用OCR」，然后将刚才获取到的秘钥填写到对应位置即可。
 
 详细使用方法可查看 [服务](general/quickstart/service) 页面。
+
+## 6. 注意事项
+
+* **腾讯云文字识别开通后需要等免费资源包才可以使用。**
+* 资源包发放可能有延迟，最迟将于开通后整点全部发放到位。
+* 可在这个页面查看资源包的情况 https://console.cloud.tencent.com/ocr/packagemanage
